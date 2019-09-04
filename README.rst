@@ -25,20 +25,20 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/nathanglover/python-nathanglover
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/nathanglover/python-nathanglover?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/t04glovern/python-nathanglover?branch=master&svg=true
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/nathanglover/python-nathanglover
 
-.. |requires| image:: https://requires.io/github/nathanglover/python-nathanglover/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/t04glovern/python-nathanglover/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/nathanglover/python-nathanglover/requirements/?branch=master
+    :target: https://requires.io/github/t04glovern/python-nathanglover/requirements/?branch=master
 
-.. |codecov| image:: https://codecov.io/github/nathanglover/python-nathanglover/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/github/t04glovern/python-nathanglover/coverage.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/nathanglover/python-nathanglover
+    :target: https://codecov.io/github/t04glovern/python-nathanglover
 
-.. |landscape| image:: https://landscape.io/github/nathanglover/python-nathanglover/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/nathanglover/python-nathanglover/master
+.. |landscape| image:: https://landscape.io/github/t04glovern/python-nathanglover/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/t04glovern/python-nathanglover/master
     :alt: Code Quality Status
 
 .. |version| image:: https://img.shields.io/pypi/v/nathanglover.svg
