@@ -45,9 +45,9 @@ Overview
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/nathanglover
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/nathanglover/python-nathanglover/v1.1.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/nathanglover/python-nathanglover/v1.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/t04glovern/python-nathanglover/compare/v1.1.0...master
+    :target: https://github.com/t04glovern/python-nathanglover/compare/v1.0.0...master
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/nathanglover.svg
     :alt: PyPI Wheel

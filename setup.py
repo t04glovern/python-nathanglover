@@ -24,7 +24,7 @@ def read(*names, **kwargs):
 
 setup(
     name='nathanglover',
-    version='1.1.0',
+    version='1.0.0',
     license='MIT license',
     description='My Contact Details',
     long_description='%s\n%s' % (
