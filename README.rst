@@ -21,13 +21,13 @@ Overview
     :target: https://readthedocs.org/projects/python-nathanglover
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/nathanglover/python-nathanglover.svg?branch=master
+.. |travis| image:: https://travis-ci.org/t04glovern/python-nathanglover.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/nathanglover/python-nathanglover
+    :target: https://travis-ci.org/t04glovern/python-nathanglover
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/t04glovern/python-nathanglover?branch=master&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/nathanglover/python-nathanglover
+    :target: https://ci.appveyor.com/project/t04glovern/python-nathanglover
 
 .. |requires| image:: https://requires.io/github/t04glovern/python-nathanglover/requirements.svg?branch=master
     :alt: Requirements Status
@@ -45,7 +45,7 @@ Overview
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/nathanglover
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/nathanglover/python-nathanglover/v1.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/t04glovern/python-nathanglover/v1.0.0.svg
     :alt: Commits since latest release
     :target: https://github.com/t04glovern/python-nathanglover/compare/v1.0.0...master
 
