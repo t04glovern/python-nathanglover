@@ -2,4 +2,4 @@
 Authors
 =======
 
-* Nathan Glover - https://nathanglover.com
+* Nathan Glover - www.iloveanal.com
